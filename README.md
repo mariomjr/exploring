@@ -2,9 +2,9 @@
 
 ### Configuração do projeto
 * Clonar o projeto e executar o comando `mvn clean install`
-* Excutar a classe `ExploringApplication`
+* Executar a classe `ExploringApplication`
 
-### Importação via Docker
+### Ou importando via Docker
 * Executar o comando `docker pull mariomjr/exploring`
 * Comando para subir aplicação `docker run -p 8080:8080 mariomjr/exploring`
 
